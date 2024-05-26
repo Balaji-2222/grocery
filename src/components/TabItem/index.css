@@ -1,0 +1,13 @@
+.listButton {
+  list-style-type: none;
+  background-color: transparent;
+  margin-right: 15px;
+}
+.buttonactiveColor {
+  text-decoration: underline;
+  color: blue;
+}
+.button {
+  background-color: #dfe2e5;
+  border-width: 0px;
+}
